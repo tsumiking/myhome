@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<vcmxml xmlns="http://xmlns.sony.net/vaio/vcm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.sony.net/vaio/vcm VcmXmlIF.xsd">
-	<contents>
-		<content guid="vcmxml:xmldb:{1BBC20EC-5A94-4694-903B-19624891D270}">
-			<analysisInfo/>
-		</content>
-	</contents>
-</vcmxml>
